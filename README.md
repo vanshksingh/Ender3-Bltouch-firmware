@@ -1,6 +1,7 @@
 # Ender3-Bltouch-firmware
 This repository contains the firmware for Ender3 with BL Touch Modification , Tested on Board is V4.2.2 STM32F303 or GD "NOT 103"
 
+Built usinng Marlin 2.1.2.3
 
 Your wiring isint bad , or it is interference , and nor your BL-Touch is bad..... Creality's firmware is.
 
