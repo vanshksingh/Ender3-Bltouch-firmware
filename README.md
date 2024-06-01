@@ -32,3 +32,7 @@ Initially tested with below , but switched to other as it was being depreciated
 <img width="708" alt="Screenshot 2024-06-02 at 12 32 49 AM" src="https://github.com/vanshksingh/Ender3-Bltouch-firmware/assets/114809624/a58c401f-3678-467e-b214-71c52b7351c1">
 
 
+Further Readings...
+https://3dprinting.stackexchange.com/questions/19617/configuring-marlin-2-x-with-ender-3-4-2-2-and-bltouch
+https://marlinfw.org
+
