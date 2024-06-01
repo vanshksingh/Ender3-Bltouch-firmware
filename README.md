@@ -1,11 +1,11 @@
-# Ender3-Bltouch-firmware
+**# Ender3-Bltouch-firmware**
 This repository contains the firmware for Ender3 with BL Touch Modification , Tested on Board is V4.2.2 STM32F303 or GD "NOT 103"
 
-Built usinng Marlin 2.1.2.3
+_Built usinng Marlin 2.1.2.3_
 
-Your wiring isint bad , or it is interference , and nor your BL-Touch is bad..... Creality's firmware is.
+**Your wiring isint bad , or it is interference , and nor your BL-Touch is bad..... Creality's firmware is.
 
-Make sure your wiring makes sense...
+Make sure your wiring makes sense...**
 
 
 Probe Connection Point on ender3 V4.2.2 board , using the BL-touch connecter is PB1 --- '#define Z_MIN_PROBE_PIN PB1'
@@ -32,7 +32,9 @@ Initially tested with below , but switched to other as it was being depreciated
 <img width="708" alt="Screenshot 2024-06-02 at 12 32 49 AM" src="https://github.com/vanshksingh/Ender3-Bltouch-firmware/assets/114809624/a58c401f-3678-467e-b214-71c52b7351c1">
 
 
-Further Readings...
+
+
+**Further Readings...**
 
 https://3dprinting.stackexchange.com/questions/19617/configuring-marlin-2-x-with-ender-3-4-2-2-and-bltouch
 
