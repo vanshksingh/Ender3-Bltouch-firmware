@@ -35,5 +35,6 @@ Initially tested with below , but switched to other as it was being depreciated
 Further Readings...
 
 https://3dprinting.stackexchange.com/questions/19617/configuring-marlin-2-x-with-ender-3-4-2-2-and-bltouch
+
 https://marlinfw.org
 
